@@ -90,3 +90,5 @@ AC_OUTPUT([Makefile
            test/Makefile
            trace/Makefile
            vdpau.pc])
+
+echo "DRI2=$DRI2"
